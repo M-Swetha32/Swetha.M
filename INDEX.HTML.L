@@ -62,7 +62,7 @@
 
     <div class="login-container">
         <!-- Replace the src with your actual college logo path -->
-        <img src="college-logo.png" alt="College Logo" class="logo">
+        <img src="college.png" alt="College Logo" class="logo">
         <h2>Student Login</h2>
         <form action="login.php" method="POST">
             <input type="text" name="username" placeholder="Username" required><br>
